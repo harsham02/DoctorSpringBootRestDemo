@@ -5,7 +5,9 @@ The Doctor module includes the following controllers and functionalities:
 
 Doctor Controller
 POST /addnew: Add a new doctor.
+
 Request Body: Doctor details.
+
 GET /get/byName: Get doctor details by name.
 Parameters: name (Doctor name).
 GET /all: Get all doctors.
